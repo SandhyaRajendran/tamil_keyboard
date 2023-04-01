@@ -1,0 +1,171 @@
+button {
+    background-color: #0e0e0e;
+    padding: 2%;
+    color: brown;
+    font-size: 20px;
+}
+html{
+    height: 100%;
+    background-image: linear-gradient(to right top, #0c0e10, #1b223d, #4d2b60, #922068, #d0084f);
+
+}
+
+.numbers {
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+button:hover {
+    background-color: white;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+textarea {
+    border-radius: 7px;
+    height: 155px;
+    width: 79%;
+    padding: 2%;
+    margin-left: 8%;
+    margin-top: 4%;
+    font-size: 17px;
+    letter-spacing: 2px;
+
+
+}
+
+button.backspace {
+    margin-right: 9%;
+}
+
+button.\` {
+    margin-left: 9%;
+}
+
+button.Tab {
+    margin-left: 9%;
+    padding-right: 5%;
+    padding-left: 6%;
+
+}
+
+button.Enter {
+    padding-right: 3%;
+}
+
+button.capsLock {
+    margin-left: 9%;
+    padding-right: 4%;
+    padding-left: 4%;
+}
+
+button.shift {
+    margin-left: 9%;
+    padding-right: 4%;
+    padding-left: 5%;
+}
+
+button.space {
+    padding-right: 6%;
+    padding-left: 6%;
+}
+
+button.BACKSPACE {
+    margin-right: 6%;
+}
+
+button.\~ {
+    margin-left: 5%;
+}
+
+button.TAB {
+    margin-left: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+button.CAPSLOCK {
+    margin-left: 5%;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+button.ENTER {
+    margin-right: 3%;
+}
+
+button.SHIFT {
+    margin-left: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
+button.SPACE {
+    padding-right: 6%;
+    padding-left: 7%;
+}
+.clicked{
+    background-color: #d0084f;
+}
+.Tamil{
+    position: absolute;
+    top:5%;
+    left:92%;
+    
+}
+button.பின்வெளி{
+    margin-right: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+button.தாவல்{
+    padding-left: 9%;
+    padding-right: 8%;
+}
+button.நுழைய{
+padding-left: 6%;
+padding-right: 51.16px;
+}
+
+
+button.Backspace {
+    padding-top: 33.12px;
+    padding-bottom: 31.12px;
+    margin-right: 3%;
+}
+button.tab{
+    padding-top: 33.12px;
+    padding-bottom: 31.12px;
+    padding-right: 94.12px;
+    padding-left: 72.12px;
+}
+button.CapsLock{
+    padding-top: 33.12px;
+    padding-bottom: 31.12px;
+    padding-right: 27.12px;
+    padding-left: 20.12px;
+}
+button.enter{
+    padding-top: 33.12px;
+    padding-bottom: 31.12px;
+    padding-left: 48.12px;
+    padding-right: 51.12px;
+    margin-right: 2%;
+}
+button.Shift{
+    padding-top: 33.12px;
+    padding-bottom: 31.12px;
+}
+button.Space{
+    padding-top: 33.12px;
+    padding-bottom: 31.12px;
+    padding-right: 3%;
+    padding-left: 3%;
+}
